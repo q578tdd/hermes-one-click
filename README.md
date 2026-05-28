@@ -18,12 +18,12 @@ curl --version
 ## 一键安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<your-username>/hermes-one-click/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/q578tdd/hermes-one-click/main/install.sh | bash
 ```
 
 > **安全提示**：建议先下载脚本审查内容，再执行：
 > ```bash
-> curl -fsSL https://raw.githubusercontent.com/<your-username>/hermes-one-click/main/install.sh -o install.sh
+> curl -fsSL https://raw.githubusercontent.com/q578tdd/hermes-one-click/main/install.sh -o install.sh
 > less install.sh    # 审查脚本
 > bash install.sh    # 执行安装
 > ```
